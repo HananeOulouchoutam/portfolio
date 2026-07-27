@@ -17,7 +17,7 @@ export default function About() {
       name: "Education",
       icon1: "./assets/edu-icon.png",
       icon2: "./assets/edu-icon-dark.png",
-      description: "Engineering Degree in Web and Mobile Development",
+      description: "Web and Mobile Development",
     },
     {
       name: "Projects",
